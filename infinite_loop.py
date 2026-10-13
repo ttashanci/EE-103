@@ -14,4 +14,4 @@ while attempts < 5:
         print("Too high!")
 if not found:
     while True:
-        print("Oh! Noooo...")
+        print("Oh! Noooo")
